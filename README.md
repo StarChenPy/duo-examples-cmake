@@ -9,6 +9,6 @@
 
 This project ported the build system of the 'duo-examples' project to CMake
 
-You can directly copy the examples from the duo-examples project to the src folder, which is blink by default
+You can directly copy the examples from the [duo-examples](https://github.com/milkv-duo/duo-examples) project to the src folder, which is blink by default
 
 There is also a function to automatically download the 'toolchain' without having to run the 'envsetup.sh'
